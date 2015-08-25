@@ -15,7 +15,8 @@
     "url": "git+https://github.com/kazupon/vue-router-hackernews.git"
   },
   "scripts": {
-    "dev": "webpack --watch"
+    "dev": "webpack --watch",
+    "build": "webpack"
   },
   "devDependencies": {
     "babel-core": "^5.8.22",
